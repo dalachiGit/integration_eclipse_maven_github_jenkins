@@ -1,0 +1,2 @@
+# integration_eclipse_maven_github_jenkins
+exercise test d'integration
